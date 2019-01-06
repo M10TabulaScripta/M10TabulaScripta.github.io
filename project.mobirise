@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page5.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7620,6 +7620,12 @@
                 "active": false
               },
               {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/93-4-1072x1620.jpg",
+                "alt": "",
+                "title": ""
+              },
+              {
                 "tags": "Geweldige",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -7633,17 +7639,16 @@
                 "active": false
               },
               {
-                "tags": "Creatieve",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/33-1620x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/33-1620x1080-800x533.jpg",
                 "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
-                "active": false
+                "title": ""
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/127-1620x1080.jpg",
+                "alt": "",
+                "title": ""
               }
             ]
           }
