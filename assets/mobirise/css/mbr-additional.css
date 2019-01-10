@@ -1308,6 +1308,30 @@ body {
 .cid-rebodE9X44 .mbr-section-btn {
   color: #767676;
 }
+.cid-reKfrKZmd0 {
+  background: #cccccc;
+  padding-top: 0px;
+  padding-bottom: 60px;
+}
+.cid-reKfrKZmd0 .image-block {
+  margin: auto;
+}
+.cid-reKfrKZmd0 figcaption {
+  position: relative;
+}
+.cid-reKfrKZmd0 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-reKfrKZmd0 .image-block {
+    width: 100% !important;
+  }
+}
+.cid-reKgrBVhtZ {
+  background-image: url("../../../assets/images/img-4888-2000x1321.jpg");
+}
 .cid-reboewuRuw {
   background: #cccccc;
   padding-top: 0px;
