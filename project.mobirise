@@ -4123,7 +4123,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
+            "slides__autoplay": true,
             "slides__autoplayInterval": 4000,
             "slides__showBullets": true,
             "slides": [
@@ -4163,24 +4163,6 @@
                 "text": "Slide met Youtube video-achtergrond en dekkleur. Titel en tekst worden links uitgelijnd.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>",
                 "overlayOpacity": "0",
-                "overlayColor": "#ffffff"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/eline-en-flor-2-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "Video slide",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Slide met Youtube video-achtergrond en dekkleur. Titel en tekst worden links uitgelijnd.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>",
                 "overlayColor": "#ffffff"
               },
               {
@@ -4308,7 +4290,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/startpagina-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -4322,6 +4304,24 @@
                 "contentAlign": "left",
                 "text": "Slide met Youtube video-achtergrond en dekkleur. Titel en tekst worden links uitgelijnd.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/eline-en-flor-2-2000x1333.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Video slide",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "Slide met Youtube video-achtergrond en dekkleur. Titel en tekst worden links uitgelijnd.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>",
+                "overlayColor": "#ffffff"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/opstelling-camera-2000x1333.jpg",
